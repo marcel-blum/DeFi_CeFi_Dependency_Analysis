@@ -1,2 +1,6 @@
 # DeFi_CeFi_Dependency_Analysis
-DeFi-CeFi-Dependency-Analysis: A comprehensive research framework using ML and Econometrics to quantify the impact of TradFi liquidity and Macro-drivers on DeFi Total Value Locked (TVL). Features a transition from binary directional signals to continuous magnitude modeling.
+## Executive Summary
+This repository hosts a multi-stage research project investigating the decoupling (or lack thereof) between Decentralized Finance (DeFi) and Centralized Finance (CeFi). By constructing a high-fidelity dataset spanning 2017–2025, this study quantifies how macroeconomic stress—defined by interest rates, CPI deviations, and labor market shocks—propagates into DeFi liquidity.
+
+## Project Architecture
+The research is organized into two distinct phases:
